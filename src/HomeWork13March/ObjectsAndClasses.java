@@ -6,6 +6,5 @@ public class ObjectsAndClasses {
         Author lovecraft = new Author("Howard", "Lovecraft");
         Book demons = new Book("Demons", 1872, dostoevsky);
         Book theNamelessCity = new Book("The Nameless City", 1922, lovecraft);
-        theNamelessCity.setYear(1921);
     }
 }
